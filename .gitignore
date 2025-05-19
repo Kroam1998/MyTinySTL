@@ -1,0 +1,12 @@
+# Bazel build outputs
+/bazel-bin/
+/bazel-genfiles/
+/bazel-out/
+/bazel-testlogs/
+/bazel-*
+
+# Other common ignores
+*.log
+*.tmp
+*~
+.DS_Store

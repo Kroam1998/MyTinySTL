@@ -10,5 +10,7 @@ bazel usage: https://bazel.build/start/cpp?hl=zh-cn
 Getting started.
 1. git clone
 
-git clone git@github.com:Kroam1998/MyTinySTL.gitbui
+git clone git@github.com:Kroam1998/MyTinySTL.git
+
+
 
