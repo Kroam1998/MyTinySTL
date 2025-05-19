@@ -5,6 +5,9 @@
 /bazel-testlogs/
 /bazel-*
 
+# Bazel lock file (auto-generated)
+MODULE.bazel.lock
+
 # Other common ignores
 *.log
 *.tmp
